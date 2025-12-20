@@ -25,7 +25,7 @@ python -m scripts.experiment1.class1
 python -m scripts.experiment1.class2
 python -m scripts.experiment1.figures
 ```
-Also see [`script_commands.txt`](https://github.com/jkfids/corrqec/main/script_commands.txt).
+Also see [`script_commands.txt`](https://github.com/jkfids/corrqec/blob/main/script_commands.txt).
 
 ## Repository overview
 
@@ -60,4 +60,4 @@ RIS: See IOP QST [page](https://iopscience.iop.org/article/10.1088/2058-9565/ade
 Email: john.kam@monash.edu
 
 ## License
-MIT license in [`LICENSE`](https://github.com/jkfids/corrqec/main/LICENSE).
+MIT license in [`LICENSE`](https://github.com/jkfids/corrqec/blob/main/LICENSE).
