@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"  # Corrected line
+
+[project]
+name = "corrqec"
+version = "0.1.0"
+description = "Correlated QEC experiments"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "stim",
+  "numpy",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
